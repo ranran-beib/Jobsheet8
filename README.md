@@ -6,7 +6,7 @@ Percobaan 1
 Percobaan 2
   1. Perulangan luar akan berjalan satu kali lebih banyak, karena nilai awal iOuter menjadi 0 sehingga loop berjalan untuk iOuter=0,1,...,N.
   2. Perulangan dalam akan mencetak satu bintang (*) lebih banyak pada setiap baris.
-  3. Mengatur pencetakan bintang (*) dalam satu baris (horizontal).
+  3. Outer loop untuk mengontrol "berapa kali" inner loop dijalankan. Inner loop untuk melakukan aktivitas detail dalam 1 iterasi outer loop.
   4. Membuat pindah baris setelah selesai mencetak satu baris bintang supaya hasilnya membentuk persegi.
 
 Percobaan 3
