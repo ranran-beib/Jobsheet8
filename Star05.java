@@ -12,3 +12,5 @@ public class Star05 {
         }
     }
 }
+
+//Percobaan 1//

@@ -16,3 +16,5 @@ public class Square05 {
         sc.close();
     }
 }
+
+//Percobaan 2//
